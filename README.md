@@ -6,18 +6,19 @@
   </a>
 </p>
 
-### 🚀 Aspiring AI/ML Professional & Web Developer
+### 🚀 B.Tech CSE AI/ML @ VIT Bhopal | ML • AI AUTOMATION • Web Development | 2027
 
-I'm a passionate developer focused on mastering **Machine Learning** and **Full-Stack Web Development**. I love building applications that merge intelligent backend models with clean, modern, and highly interactive user interfaces.
+I'm a passionate developer focused on mastering **Machine Learning**, **AI Automation**, and **Full-Stack Web Development**. I love building intelligent systems and clean, modern user interfaces.
 
 ---
 
 ### 🌟 About Me
 
-- 💻 I’m currently learning and refining my skills in **Deep Learning**, **Computer Vision**, and **Full-Stack Web Development**.
-- 🛠️ I build modern web applications using **React**, **Node.js (MERN stack)**, and vanilla frontend technologies.
-- 🎯 My goal is to bridge the gap between AI/ML research and production-ready applications.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/puneet-panwar)!
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (AI/ML)** at **VIT Bhopal** (Class of 2027).
+- 💻 Currently diving deep into **Deep Learning**, **Computer Vision**, and **AI-driven Automation**.
+- 🛠️ Building full-stack projects using **React**, **Node.js (MERN stack)**, and scripting automation workflows.
+- 🎯 Aiming to design and deploy scalable, production-ready AI solutions.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/puneet-panwar)!
 
 ---
 
@@ -25,10 +26,10 @@ I'm a passionate developer focused on mastering **Machine Learning** and **Full-
 
 <p align="left">
   <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <br/>
   <!-- Web Dev -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -48,12 +49,6 @@ I'm a passionate developer focused on mastering **Machine Learning** and **Full-
 
 ### 📂 Featured Projects
 
-#### 📈 [stock-trading-platform](https://github.com/Puneet-3/stock-trading-platform)
-*A Full-Stack Stock Trading Platform inspired by Zerodha.*
-- Built using the **MERN** stack (MongoDB, Express, React, Node.js).
-- Replicates core trading workflows, portfolio tracking, and user transaction management.
-- **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB.
-
 #### 🧠 [Machine-Learning](https://github.com/Puneet-3/Machine-Learning)
 *My AI/ML repository documenting projects, experiments & notes.*
 - Covers topics from baseline regression/classification to advanced deep learning architectures.
@@ -64,6 +59,12 @@ I'm a passionate developer focused on mastering **Machine Learning** and **Full-
 *Pose detection and estimation using machine learning models.*
 - Performs real-time joint-tracking and skeleton mapping.
 - **Tech Stack:** Python, OpenCV, MediaPipe / TensorFlow.
+
+#### 📈 [stock-trading-platform](https://github.com/Puneet-3/stock-trading-platform)
+*A Full-Stack Stock Trading Platform inspired by Zerodha.*
+- Built using the **MERN** stack (MongoDB, Express, React, Node.js).
+- Replicates core trading workflows, portfolio tracking, and user transaction management.
+- **Tech Stack:** JavaScript, React, Node.js, Express, MongoDB.
 
 #### ☕ [DrGVishwanathanChallenege](https://github.com/Puneet-3/DrGVishwanathanChallenege)
 *A structured Java-based DSA challenge repository designed to master coding interviews.*
