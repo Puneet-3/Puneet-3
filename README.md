@@ -1,11 +1,5 @@
 # Hi there, I'm Puneet! 👋
 
-<p align="left">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Puneet-3&label=Profile%20Views&color=12&style=flat-square" alt="Visitors Count" />
-  </a>
-</p>
-
 ### 🚀 B.Tech CSE AI/ML @ VIT Bhopal | ML • AI AUTOMATION • Web Development | 2027
 
 I'm a passionate developer focused on mastering **Machine Learning**, **AI Automation**, and **Full-Stack Web Development**. I love building intelligent systems and clean, modern user interfaces.
@@ -71,20 +65,6 @@ I'm a passionate developer focused on mastering **Machine Learning**, **AI Autom
 - Implements core data structures, sorting algorithms, and common interview questions.
 - **Tech Stack:** Java.
 
----
-
-### 📊 GitHub Analytics & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puneet-3&show_icons=true&theme=tokyonight&count_private=true" alt="Puneet's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet-3&layout=compact&theme=tokyonight" alt="Puneet's Top Languages" height="195px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet-3&theme=tokyonight" alt="Puneet's GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <i>"Consistency is the key to mastering any skill."</i> 🚀
