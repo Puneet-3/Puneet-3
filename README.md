@@ -40,7 +40,7 @@ A banking-style interface for balances, deposits, transfers, and transaction his
 
 **React · Node.js · Express · PostgreSQL**
 
-[Explore the project →](https://github.com/Puneet-3/PayFlow#readme)
+[Open preview ↗](https://payflow-git-deploy-vercel-preview-puneet-s-projects46.vercel.app) · [Explore the project →](https://github.com/Puneet-3/PayFlow#readme)
 
 </td>
 <td width="50%" valign="top">
