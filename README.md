@@ -1,152 +1,60 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Puneet Panwar — Full-stack development and applied AI" width="100%" />
-</p>
+# Puneet Panwar
 
-<h1 align="center">Hi, I'm Puneet 👋</h1>
+**Full-Stack Developer · Applied AI/ML**
 
-<p align="center">
-  <strong>Computer Science student building web applications and applied AI projects.</strong><br />
-  B.Tech CSE (AI &amp; Machine Learning) · VIT Bhopal · Class of 2027
-</p>
+I build end-to-end applications—from frontend interfaces and backend APIs to databases and machine learning features.
 
-<p align="center">
-  <a href="https://puneet-portfolio-psi.vercel.app/"><strong>Portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/puneet-panwar"><strong>LinkedIn ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Puneet-3?tab=repositories"><strong>All projects ↗</strong></a>
-</p>
+B.Tech in Computer Science (AI & ML) · VIT Bhopal · Class of 2027
+
+[**Portfolio**](https://puneet-portfolio-psi.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/puneet-panwar) · [All repositories](https://github.com/Puneet-3?tab=repositories)
 
 ---
 
-## What I build
+## Selected work
 
-I enjoy taking a practical problem from the interface through the API, database, and tests. My projects span digital wallets, healthcare software, language classification, and computer vision.
+### Full-stack development
 
-- **Full-stack applications** — React and Next.js interfaces backed by Node.js or Python services.
-- **Applied AI** — NLP and computer vision projects with documented scope and limitations.
-- **Backend engineering** — authentication, data integrity, reliable payment retries, and concurrency testing.
+**[PayFlow](https://github.com/Puneet-3/PayFlow)** — Digital wallet & peer-to-peer payment simulator  
+`React · Node.js · Express · PostgreSQL`
 
-## Selected projects
+Built around reliable balance updates: database transactions, ordered row locks, and idempotency keys for safe payment retries. Uses simulated funds, not real payments.  
+[Explore repository](https://github.com/Puneet-3/PayFlow) · [Live preview](https://payflow-git-deploy-vercel-preview-puneet-s-projects46.vercel.app)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[Paper Trading Platform](https://github.com/Puneet-3/stock-trading-platform)** — Full-stack stock trading simulator  
+`React · Express · MongoDB`
 
-### [PayFlow](https://github.com/Puneet-3/PayFlow)
-**Digital wallet & P2P payment simulator**
+Separate public and trading interfaces, authenticated accounts, simulated orders, portfolio tracking, and virtual balances. Market quotes and funds are simulated.  
+[Explore repository](https://github.com/Puneet-3/stock-trading-platform)
 
-A banking-style interface for balances, deposits, transfers, and transaction history. PostgreSQL transactions, ordered row locks, and idempotency keys protect payment updates and retries.
+### Applied AI & machine learning
 
-**React · Node.js · Express · PostgreSQL**
+**[Sarkari Scam Detector](https://github.com/Puneet-3/sarkari-scam-detector)** — Multilingual message screening  
+`Python · Flask · NLP · Machine Learning`
 
-[Open preview ↗](https://payflow-git-deploy-vercel-preview-puneet-s-projects46.vercel.app) · [Explore the project →](https://github.com/Puneet-3/PayFlow#readme)
+Analyzes suspicious government-scheme messages in Hindi, Hinglish, and English. Supports individual checks, CSV processing, and an explicit *needs verification* outcome for uncertain results.  
+[Explore repository](https://github.com/Puneet-3/sarkari-scam-detector)
 
-</td>
-<td width="50%" valign="top">
+**[MedAI](https://github.com/Puneet-3/MedAI-Platform)** — Experimental healthcare platform  
+`Next.js · TypeScript · FastAPI · PostgreSQL`
 
-### [MedAI](https://github.com/Puneet-3/MedAI-Platform)
-**Experimental healthcare software**
-
-Patient, doctor, and administrator workspaces with symptom checks, private report access, and authenticated text consultations. Includes experimental chest X-ray screening with a documented model evaluation.
-
-**Next.js · TypeScript · FastAPI · PostgreSQL**
-
-[Explore the project →](https://github.com/Puneet-3/MedAI-Platform#readme)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Sarkari Scam Detector](https://github.com/Puneet-3/sarkari-scam-detector)
-**Government-scheme message classification**
-
-Checks suspicious messages in Hindi, Hinglish, and English. Includes individual message analysis, CSV processing, and a Flask dashboard.
-
-**Python · Flask · Machine learning · NLP**
-
-[Explore the project →](https://github.com/Puneet-3/sarkari-scam-detector#readme)
-
-</td>
-<td width="50%" valign="top">
-
-### [Voice Cart](https://github.com/Puneet-3/voice-shopping-assistant)
-**Voice-driven shopping assistant**
-
-A shopping cart and inventory interface with natural-language commands, quantity parsing, product search, and contextual suggestions.
-
-**JavaScript · Express · Web Speech API**
-
-[Explore the project →](https://github.com/Puneet-3/voice-shopping-assistant#readme)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Stock Trading Platform](https://github.com/Puneet-3/stock-trading-platform)
-**Full-stack trading simulation**
-
-A MERN application inspired by stock-trading workflows, with authentication, a dashboard, simulated orders, and portfolio tracking.
-
-**React · Node.js · Express · MongoDB**
-
-[Explore the project →](https://github.com/Puneet-3/stock-trading-platform#readme)
-
-</td>
-<td width="50%" valign="top">
-
-### [Real-Time Posture Detection](https://github.com/Puneet-3/Real_Time_Posture_Detection_System)
-**Computer vision for desk posture**
-
-Uses webcam landmarks and joint angles to identify sustained poor sitting posture and provide feedback.
-
-**Python · OpenCV · MediaPipe**
-
-[Explore the project →](https://github.com/Puneet-3/Real_Time_Posture_Detection_System#readme)
-
-</td>
-</tr>
-</table>
-
-*PayFlow uses simulated funds. MedAI is a learning project; its models have not been clinically validated.*
-
-## Tools I work with
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-</p>
-
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, Next.js, JavaScript, TypeScript, HTML, CSS |
-| Backend & data | Node.js, Express, FastAPI, Flask, PostgreSQL, MongoDB, Supabase |
-| AI & computer vision | Python, PyTorch, scikit-learn, OpenCV, MediaPipe |
-| Development | Git, GitHub, Docker, Vercel |
-
-## Currently improving
-
-- Building out PayFlow and testing its complete user journey.
-- Strengthening my understanding of database transactions, API design, and system design.
-- Making my projects easier to run, test, and explain through better documentation.
-
-## More explorations
-
-[Eco-Loop Building Agents](https://github.com/Puneet-3/eco-loop-building-agents) ·
-[Fake News Detection](https://github.com/Puneet-3/Fake_News_Detection_BERT) ·
-[Nintendo Switch Chatbox](https://github.com/Puneet-3/nintendo-switch-chatbox) ·
-[Human Pose Estimation](https://github.com/Puneet-3/human-pose-estimation-using-machine-learning)
+Combines patient and doctor workspaces, private reports, consultations, and experimental ML-assisted screening. A learning project, **not** a clinically validated diagnostic tool.  
+[Explore repository](https://github.com/Puneet-3/MedAI-Platform)
 
 ---
 
-<p align="center">
-  Interested in how something works? Open a project, explore the code, and take a look at its README.<br />
-  <a href="https://www.linkedin.com/in/puneet-panwar">Let's connect on LinkedIn.</a>
-</p>
+## Technologies
+
+**Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS  
+**Backend & databases:** Node.js, Express, FastAPI, Flask, PostgreSQL, MongoDB  
+**AI & data:** Python, scikit-learn, pandas, NumPy, OpenCV  
+**Tools:** Git, GitHub, Docker, Vercel
+
+## Other explorations
+
+[Voice Cart](https://github.com/Puneet-3/voice-shopping-assistant) · [Eco-Loop Building Agents](https://github.com/Puneet-3/eco-loop-building-agents) · [Real-Time Posture Detection](https://github.com/Puneet-3/Real_Time_Posture_Detection_System)
+
+---
+
+Currently focused on **backend reliability, practical machine learning, and building software that's easy to use and explain**.
+
+Open to internship opportunities in **full-stack development and applied AI/ML**. [Connect with me on LinkedIn](https://www.linkedin.com/in/puneet-panwar).
